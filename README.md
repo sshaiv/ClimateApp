@@ -1,4 +1,4 @@
-# clima
+# Current Climate App
 
 A new Flutter project.
 
